@@ -1,0 +1,16 @@
+openai 
+langchain~=0.3.20
+langchain-openai~=0.3.9
+langchain_pinecone
+langchain[docarray]
+docarray
+pydantic==2.4.0
+pytube 
+python-dotenv~=1.0.1
+tiktoken 
+pinecone-client 
+scikit-learn
+ruff
+git+https://github.com/openai/whisper.git
+langchain-core~=0.3.45
+langchain-community~=0.3.19
